@@ -3,7 +3,7 @@ Second homework for Projective Geometry course at the Faculty of Mathematics in 
 
 ![animation](https://raw.githubusercontent.com/daviddimic/slerp-animation/master/screenshots/slerp-animation.gif)
 
-##Isometry functions
+## Isometry functions
 
 Implemented functions for isometry:
 - Euler2A
@@ -14,13 +14,13 @@ Implemented functions for isometry:
 - Q2AxisAngle
 - slerp
 
-##Requirements
+## Requirements
 
 - C++11
 - [OpenGL](https://www.opengl.org/)
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 
-##Usage
+## Usage
 To compile program use `make`, and then `bin/slerp`.
 
 |Key | Description |
